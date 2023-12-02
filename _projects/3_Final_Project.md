@@ -36,13 +36,13 @@ Two contextual visualization were created by ourselves, here is the [Python note
 
 The "Average Monthly Solar Radiation and Range" graph is an assistant tool that illustrates solar radiation levels over time. This graph has functionality similar to the Primary Dataset's visualization. It also contains a dropdown menu for beach selections and a similar visualization for Solar Radiation level, which is a potentially impactful factor for the water temperature. Users can select a specific beach and observe its solar radiation trends over time, which can be compared with water temperature data from the primary visualization to draw deeper insights into environmental patterns.
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/chart_with_dropdown_solar.json" style="width: 100%"></vegachart>
+
 ### Air Data Graph Description
 
 The "Average Monthly Air Temperature and Range" graph is also an assistant tool that displays air temperature variations over time. Similar to the Primary Dataset's visualization, it also includes a dropdown menu for beach selection and detailed visualization of air temperature levels that would change based on beach selection. Air temperature might also be a critical factor influencing water temperature, making this graph an essential component in the comprehensive environmental analysis of water temperature. This data can be used with the primary dataset's visualization, enabling users to gain deeper insights into the environmental factors affecting beach conditions and their water temperatures.
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/chart_with_dropdown_air.json" style="width: 100%"></vegachart>
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/chart_with_dropdown_solar.json" style="width: 100%"></vegachart>
 
 # Conclusion
 
