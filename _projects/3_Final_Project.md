@@ -18,7 +18,7 @@ Yuefan Zhou, Ian Lin, Zixu Gong
 
 The primary dataset, Beach Water Temperature Trends, offers a comprehensive record of the water temperatures recorded at various beaches over time. Using this dataset, we can analyze fluctuations in water temperature, which is crucial for understanding the environmental conditions of beach areas. Such data is invaluable for environmental studies, tourism planning, and local residents who may use the beaches for recreational activities.
 
-The visualizations are based on this [raw data]('http://https//query.data.world/s/ioozdhrxwt5uyqyyuh5hfcpnxwh7xw?dws=00000%27').
+The visualizations are based on this [raw data](http://https//query.data.world/s/ioozdhrxwt5uyqyyuh5hfcpnxwh7xw?dws=00000%27).
 A link to the [Python notebook](https://github.com/nivaGzx/nivaGzx.github.io/blob/main/python_notebooks/FP3.1.2.ipynb).
 
 
